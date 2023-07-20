@@ -7,6 +7,7 @@ import { CardComponent } from './components/card/card.component';
 import { CardsListComponent } from './components/cards-list/cards-list.component';
 import { NavComponent } from './components/nav/nav.component';
 import { RateComponent } from './components/rate/rate.component';
+import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,9 @@ import { RateComponent } from './components/rate/rate.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    HttpClientModule
+
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -1,8 +1,14 @@
 <p>card works!</p>
 <!-- title, textContent, rateComponent,  -->
-<div class="bg-red-500 w-20">
-    <span>Roberto</span>
-    <p>Roberto nacio en rosario y es un chico muy feliz</p>
-    <span>*****</span>
-    <span>*****</span>
+<div *ngFor="let data of jsonData">
+    <div class=" w-3/4 mx-auto bg-cyan-500 border-purple-700 border-8 rounded-tr-none rounded-3xl max-h-[425px] mb-10">
+        <div class="w-fit h-fit">
+            <h3 class="bold text-cyan-50 bg-[#200074] m-auto w-2/5 mt-5 mb-2 text-center p-1 rounded-lg h-8">Variables</h3>
+            <p class="m-3 text-center">
+                {{data.definicion_ingles}}
+            </p>
+        </div>
+        <span>*****</span>
+    </div>
 </div>
+    

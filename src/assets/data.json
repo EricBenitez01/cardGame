@@ -1,0 +1,55 @@
+[
+    {
+      "id": 1,
+      "definicion_espanol": "Variables en JavaScript: Espacios de memoria utilizados para almacenar valores. Se declaran con las palabras clave 'var', 'let' o 'const', y pueden contener diferentes tipos de datos. Las variables permiten la manipulación y reutilización de información en un programa.",
+      "definicion_ingles": "JavaScript Variables: Memory spaces used to store values. They are declared with the keywords 'var', 'let', or 'const', and can hold various data types. Variables allow for the manipulation and reuse of information within a program."
+    },
+    {
+      "id": 2,
+      "definicion_espanol": "Funciones en JavaScript: Bloques de código reutilizable que realizan una tarea específica. Las funciones permiten encapsular la lógica y facilitan el mantenimiento del código. Pueden aceptar parámetros y devolver valores. Las funciones son fundamentales para la modularidad en JavaScript.",
+      "definicion_ingles": "JavaScript Functions: Reusable blocks of code that perform a specific task. Functions allow for encapsulating logic and ease code maintenance. They can accept parameters and return values. Functions are fundamental for modularity in JavaScript."
+    },
+    {
+      "id": 3,
+      "definicion_espanol": "Condicionales en JavaScript: Estructuras de control utilizadas para tomar decisiones basadas en condiciones. Los condicionales, como 'if', 'else if' y 'else', permiten que el código se bifurque y ejecute diferentes rutas según los resultados de evaluaciones lógicas.",
+      "definicion_ingles": "JavaScript Conditionals: Control structures used to make decisions based on conditions. Conditionals, like 'if', 'else if', and 'else', allow the code to branch and execute different paths depending on the results of logical evaluations."
+    },
+    {
+      "id": 4,
+      "definicion_espanol": "Bucles en JavaScript: Estructuras de control que permiten repetir bloques de código mientras se cumpla una condición. Los bucles, como 'for', 'while' y 'do-while', son esenciales para la iteración y el procesamiento de colecciones de datos.",
+      "definicion_ingles": "JavaScript Loops: Control structures that allow repeating code blocks while a condition is true. Loops, like 'for', 'while', and 'do-while', are essential for iteration and processing data collections."
+    },
+    {
+      "id": 5,
+      "definicion_espanol": "Arreglos en JavaScript: Estructuras de datos que almacenan múltiples valores en una sola variable. Los arreglos se declaran utilizando corchetes [] y pueden contener elementos de diferentes tipos. Son fundamentales para organizar y manipular datos en JavaScript.",
+      "definicion_ingles": "JavaScript Arrays: Data structures that store multiple values in a single variable. Arrays are declared using square brackets [] and can hold elements of different types. They are fundamental for organizing and manipulating data in JavaScript."
+    },
+    {
+      "id": 6,
+      "definicion_espanol": "Objetos en JavaScript: Estructuras de datos que almacenan propiedades y métodos relacionados. Los objetos se declaran utilizando llaves {} y son útiles para representar entidades del mundo real en código. Son clave para la programación orientada a objetos en JavaScript.",
+      "definicion_ingles": "JavaScript Objects: Data structures that store related properties and methods. Objects are declared using curly braces {} and are useful for representing real-world entities in code. They are key to object-oriented programming in JavaScript."
+    },
+    {
+      "id": 7,
+      "definicion_espanol": "Eventos en JavaScript: Acciones que ocurren en una página web y que pueden ser controladas con JavaScript. Los eventos, como hacer clic en un botón o mover el mouse, permiten la interacción del usuario con la página y la ejecución de acciones específicas en respuesta a esas interacciones.",
+      "definicion_ingles": "JavaScript Events: Actions that occur on a web page and can be controlled with JavaScript. Events, like clicking a button or moving the mouse, enable user interaction with the page and the execution of specific actions in response to those interactions."
+    },
+    {
+      "id": 8,
+      "definicion_espanol": "DOM en JavaScript: Document Object Model es una representación en memoria de un documento HTML, XHTML o XML. El DOM permite interactuar y manipular la estructura y contenido de una página web mediante JavaScript. Es esencial para la creación de páginas web dinámicas e interactivas.",
+      "definicion_ingles": "JavaScript DOM: Document Object Model is an in-memory representation of an HTML, XHTML, or XML document. The DOM allows interacting and manipulating the structure and content of a web page using JavaScript. It is essential for creating dynamic and interactive web pages."
+    },
+    {
+      "id": 9,
+      "definicion_espanol": "AJAX en JavaScript: Asynchronous JavaScript and XML es una técnica para actualizar contenido en una página web sin necesidad de recargarla. Permite enviar y recibir datos del servidor en segundo plano, lo que mejora la experiencia del usuario al cargar partes específicas de una página sin afectar al resto.",
+      "definicion_ingles": "JavaScript AJAX: Asynchronous JavaScript and XML is a technique for updating content on a web page without reloading it. It allows sending and receiving data from the server in the background, enhancing the user experience by loading specific parts of a page without affecting the rest."
+    },
+    {
+      "id": 10,
+      "definicion_espanol": "JSON en JavaScript: JavaScript Object Notation es un formato ligero de intercambio de datos. Se utiliza para representar objetos y estructuras de datos como texto legible por humanos. JSON es ampliamente utilizado en la comunicación entre servidores y clientes web, y es fácil de parsear y generar en JavaScript.",
+      "definicion_ingles": "JavaScript JSON: JavaScript Object Notation is a lightweight data interchange format. It is used to represent objects and data structures as human-readable text. JSON is widely used in communication between web servers and clients, and it is easy to parse and generate in JavaScript."
+    }
+]
+  
+  
+  
