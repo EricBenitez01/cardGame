@@ -11,6 +11,7 @@ export class CardComponent {
 
   face: boolean = false;
   jsonData: any;
+  rotate: string = '';
 
   constructor(private http: HttpClient) {}
 
@@ -25,13 +26,17 @@ export class CardComponent {
     return this.http.get<any>('../../../assets/data.json');
   }
 
-  public toggle(): void {
-    /* if(this.face == false) {
-      this.face = true
-    } else {
-      this.face = false
-    } */
-    this.face = !this.face
+  isRotated: boolean = false;
 
+  rotateCard() {
+    this.isRotated = !this.isRotated;
+  }
+  public toggle(): void {
+    
+    setTimeout(() => {
+      this.face = !this.face
+    }
+    ,350)
+    
   }
 }

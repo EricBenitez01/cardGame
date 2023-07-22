@@ -1,0 +1,14 @@
+
+  
+.rotated1 {
+    transform-style: preserve-3d;
+    transform: rotateY(360deg);
+    cursor: pointer;
+}
+.rotated2 {
+    transform-style: preserve-3d;
+    transform: rotateY(360deg);
+    cursor: pointer;
+}
+  
+  
